@@ -1,4 +1,7 @@
 # scivision-catalog
+
+### WARNING: this repo was an idea that is not currently being used by the [scivision](https://github.com/alan-turing-institute/scivision) project
+
 A package holding scivision datasets and models
 
 ## Extending the catalog of models and datasets
